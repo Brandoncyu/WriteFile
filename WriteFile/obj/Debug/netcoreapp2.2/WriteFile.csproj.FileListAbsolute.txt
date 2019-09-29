@@ -1,0 +1,11 @@
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\bin\Debug\netcoreapp2.2\WriteFile.deps.json
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\bin\Debug\netcoreapp2.2\WriteFile.runtimeconfig.json
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\bin\Debug\netcoreapp2.2\WriteFile.runtimeconfig.dev.json
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\bin\Debug\netcoreapp2.2\WriteFile.dll
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\bin\Debug\netcoreapp2.2\WriteFile.pdb
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.csprojAssemblyReference.cache
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.AssemblyInfoInputs.cache
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.AssemblyInfo.cs
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.dll
+C:\Users\v-brayu\Documents\WriteFile\WriteFile\obj\Debug\netcoreapp2.2\WriteFile.pdb
